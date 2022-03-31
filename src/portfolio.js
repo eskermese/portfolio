@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Python/Go Backend Developer 🚀 having an experience of building Web applications with Python / Golang / Django / FastAPI and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1FI_7aDFzfI4UrLcgChvni750DNubPka7_Xgp0hcFqOM/edit?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/ernur-eskermes",
   linkedin: "https://www.linkedin.com/in/ernur-eskermes-7a147a205/",
-  gmail: "ernureskermes86@gmail.com",
+  gmail: "eskermesernur86@gmail.com",
   gitlab: "https://gitlab.com/ernur-eskermes",
   facebook: null,
   medium: null,
@@ -56,7 +56,7 @@ const skillsSection = {
     ),
 //    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase / Digital Ocean / Google APIs / Aliexpress / Ozon"
     )
   ],
 
@@ -140,15 +140,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Django", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "FastAPI",
+      Stack: "Golang/Gin/Fiber",
       progressPercentage: "70%"
     },
     {
-      Stack: "Golang",
+      Stack: "Python/Django/FastAPI", //Insert stack or technology you have experience in
+      progressPercentage: "90%" //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "Devops(CI/CD, Docker, K8s)",
       progressPercentage: "60%"
     }
   ],
@@ -214,17 +214,17 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-//    {
-//      image: require("./assets/images/aisulu-logo.95f4d180.svg"),
-//      projectName: "Aisulu",
-//      projectDesc: "The company is engaged in complex equipment of beauty salons: equipment, furniture, apparatuses, accessories and consumables.",
-//      footerLink: [
-//        {
-//          name: "Visit Website",
-//          url: "https://aisulu-client.doover.tech/home"
-//        }
-//      ]
-//    }
+    {
+      image: require("./assets/images/aisulu-logo.95f4d180.svg"),
+      projectName: "Aisulu",
+      projectDesc: "The company is engaged in complex equipment of beauty salons: equipment, furniture, apparatuses, accessories and consumables.",
+      footerLink: [
+        {
+          name: "under development",
+          url: ""
+        }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -347,8 +347,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+77023141366",
-  email_address: "ernureskermes86@gmail.com"
+  email_address: "eskermesernur86@gmail.com"
 };
 
 // Twitter Section
