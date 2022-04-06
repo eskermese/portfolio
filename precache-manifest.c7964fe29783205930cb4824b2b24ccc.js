@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "478aae0b5a48992e3ecc66d08c0d7587",
+    "revision": "6a5a89ca729b581745c02e803f5db57d",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e79712b3058206fc2907",
+    "revision": "885cc2a83f7150ca8f9f",
     "url": "/portfolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
+    "revision": "36b080b5b1dee5a0b6ed",
     "url": "/portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "626757f62e9b2d809cff",
+    "revision": "75df62c524b542f93913",
     "url": "/portfolio/static/css/main.20be3775.chunk.css"
   },
   {
-    "revision": "44b748fb40cf4f31b111",
-    "url": "/portfolio/static/js/2.0398d4b4.chunk.js"
+    "revision": "e700d59276736dc1c8f0",
+    "url": "/portfolio/static/js/2.e85f9fa3.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/portfolio/static/js/2.0398d4b4.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.e85f9fa3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e79712b3058206fc2907",
-    "url": "/portfolio/static/js/3.5037e296.chunk.js"
+    "revision": "885cc2a83f7150ca8f9f",
+    "url": "/portfolio/static/js/3.10324136.chunk.js"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/portfolio/static/js/4.aa2ec175.chunk.js"
+    "revision": "36b080b5b1dee5a0b6ed",
+    "url": "/portfolio/static/js/4.afe8fb20.chunk.js"
   },
   {
-    "revision": "626757f62e9b2d809cff",
-    "url": "/portfolio/static/js/main.dbd5c563.chunk.js"
+    "revision": "75df62c524b542f93913",
+    "url": "/portfolio/static/js/main.ad5ac148.chunk.js"
   },
   {
-    "revision": "574601dbdd7326376d09",
-    "url": "/portfolio/static/js/runtime-main.5fc81efb.js"
+    "revision": "868802371d87d72eae86",
+    "url": "/portfolio/static/js/runtime-main.c7270798.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "c472a240df9ee534ab1ab82ca651fdc6",
+    "url": "/portfolio/static/media/aisulu-logo.95f4d180.c472a240.svg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
