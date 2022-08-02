@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a5a89ca729b581745c02e803f5db57d",
+    "revision": "3ebfccd15bfd1551493c3f8d538dd3aa",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "885cc2a83f7150ca8f9f",
+    "revision": "2d9d3d46a7c118823cdc",
     "url": "/portfolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "36b080b5b1dee5a0b6ed",
+    "revision": "03bba90ddfcb5aba7167",
     "url": "/portfolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "75df62c524b542f93913",
+    "revision": "04da119f56a5984ed89b",
     "url": "/portfolio/static/css/main.20be3775.chunk.css"
   },
   {
-    "revision": "e700d59276736dc1c8f0",
-    "url": "/portfolio/static/js/2.e85f9fa3.chunk.js"
+    "revision": "bd2534304673ba2ec371",
+    "url": "/portfolio/static/js/2.ce48cb0a.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/portfolio/static/js/2.e85f9fa3.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.ce48cb0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "885cc2a83f7150ca8f9f",
-    "url": "/portfolio/static/js/3.10324136.chunk.js"
+    "revision": "2d9d3d46a7c118823cdc",
+    "url": "/portfolio/static/js/3.52fb1780.chunk.js"
   },
   {
-    "revision": "36b080b5b1dee5a0b6ed",
-    "url": "/portfolio/static/js/4.afe8fb20.chunk.js"
+    "revision": "03bba90ddfcb5aba7167",
+    "url": "/portfolio/static/js/4.6d9e7a09.chunk.js"
   },
   {
-    "revision": "75df62c524b542f93913",
-    "url": "/portfolio/static/js/main.ad5ac148.chunk.js"
+    "revision": "04da119f56a5984ed89b",
+    "url": "/portfolio/static/js/main.4a1737e6.chunk.js"
   },
   {
-    "revision": "868802371d87d72eae86",
-    "url": "/portfolio/static/js/runtime-main.c7270798.js"
+    "revision": "c97c9a3cec0d4a67f295",
+    "url": "/portfolio/static/js/runtime-main.82d2f0f0.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35ef5e915631be2c31ccdff55b53db29",
     "url": "/portfolio/static/media/harvardLogo.35ef5e91.png"
+  },
+  {
+    "revision": "4d1b43b9cf4a2eec411be1710df9e3f0",
+    "url": "/portfolio/static/media/logo.7e58ae48.4d1b43b9.svg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
