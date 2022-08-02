@@ -23,7 +23,7 @@ const greeting = {
   username: "Ernur Eskermes",
   title: "Hi all, I'm Ernur",
   subTitle: emoji(
-    "A passionate Python/Go Backend Developer 🚀 having an experience of building Web applications with Python / Golang / Django / FastAPI and some other cool libraries and frameworks."
+    "A passionate Go Developer 🚀 having an experience of building Web applications with Golang / Python / Django / FastAPI and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://docs.google.com/document/d/1FI_7aDFzfI4UrLcgChvni750DNubPka7_Xgp0hcFqOM/edit?usp=sharing", // Set to empty to hide the button
@@ -65,6 +65,10 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "golang",
+      fontAwesomeClassname: "fab fa-golang"
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
@@ -72,16 +76,11 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "django",
       fontAwesomeClassname: "fab fa-django",
       customIcon: 'django'
-
     },
     {
       skillName: "fastapi",
       fontAwesomeClassname: "fastapi",
       customIcon: "fastapi"
-    },
-    {
-      skillName: "golang",
-      fontAwesomeClassname: "fab fa-golang"
     },
     {
       skillName: "JavaScript",
@@ -141,7 +140,7 @@ const techStack = {
   experience: [
     {
       Stack: "Golang/Gin/Fiber",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Python/Django/FastAPI", //Insert stack or technology you have experience in
@@ -205,7 +204,7 @@ const bigProjects = {
     {
       image: require("./assets/images/woop-logo.webp"),
       projectName: "Woop",
-      projectDesc: "The WOOP application offers the maximum convenience of dry cleaning and laundry, ensuring quick receipt and return of your belongings.",
+      projectDesc: "The Woop application, in which you can order services such as: laundry, PCR, cleaning, grooming. You can choose the available time windows and order the service at home. There is a separate service for logistics.",
       footerLink: [
         {
           name: "Visit Website",
@@ -217,14 +216,25 @@ const bigProjects = {
     {
       image: require("./assets/images/aisulu-logo.95f4d180.svg"),
       projectName: "Aisulu",
-      projectDesc: "The company is engaged in complex equipment of beauty salons: equipment, furniture, apparatuses, accessories and consumables.",
+      projectDesc: "Aisulu online store that sells equipment, furniture, apparatuses, accessories for cosmetologists. There is a bonus system, tariffs, referral system. Works with the Cloudpayments payment system.",
       footerLink: [
         {
           name: "under development",
           url: ""
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/logo.7e58ae48.svg"),
+      projectName: "TeamHouz",
+      projectDesc: "TeamHouz - Voice meeting app. It is possible to create a workspace, assign roles to participants, invite users to the workspace via email, create events for audio conferences, etc. Events are integrated with Google Calendar. In addition, the user can communicate with other users in a 1-to-1 chat, follow a department employee by subscribing to him.",
+      footerLink: [
+        {
+          name: "under development",
+          url: ""
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
