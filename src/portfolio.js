@@ -210,7 +210,6 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://woopapp.kz/"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
